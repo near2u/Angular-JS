@@ -1,1 +1,1 @@
-var app = angu
+var app = angular.module("smaple",[]);
